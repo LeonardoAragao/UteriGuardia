@@ -20,7 +20,7 @@ const questions = [
       { label: 'Não aplicável', points: 0 }
     ]
   },
-  // Adicione as outras perguntas conforme necessário
+  // Colocar as outras perguntas!!
 ];
 
 export default function QuestionnaireScreen({ navigation }) {
